@@ -4,7 +4,7 @@ public class TestArray {
 	static void changeArray(int[] arr) {
 		int maxIndex = 0;
 		int minIndex = 0;
-		
+		// {2,5,3,1,4}
 		for(int i=1; i<arr.length; i++) {
 			if(arr[i] > arr[maxIndex]) {
 				maxIndex = i;

@@ -3,7 +3,7 @@ package day4;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Temp {
+public class RockPaperScissors {
 
 	public static void main(String[] args) { 
 		// TODO Auto-generated method stub
@@ -56,9 +56,6 @@ public class Temp {
 				System.out.println("종료되었습니다.");
 				break;
 			}
-			
 		}
-		
 	}
-
 }
